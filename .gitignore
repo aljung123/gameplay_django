@@ -1,1 +1,4 @@
 /gameplay_venv
+/venv
+*.log
+*.pyc
